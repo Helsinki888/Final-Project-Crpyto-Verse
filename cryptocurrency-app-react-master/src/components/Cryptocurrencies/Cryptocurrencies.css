@@ -1,0 +1,25 @@
+:root {
+    --text-primary: #000;
+    --bgPrimary: #fff;
+    --bgSecondary: #F9F9F9;
+    --pink: #0071bd;
+    --light-blue: #e6f7ff;
+    --border: #d9d9d9;
+}
+
+.crypto-card-container {
+    min-height: 65vh !important;
+}
+
+.crypto-card {
+    min-width: 250px;
+}
+
+.crypto-card .crypto-image {
+    width: 35px;
+}
+
+.search-crypto {
+    margin: 20px auto 30px auto;
+    width: 250px;
+}
